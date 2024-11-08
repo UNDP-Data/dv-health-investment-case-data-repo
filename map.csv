@@ -1,6 +1,6 @@
-ISO3,Focus Area,Health Tax,Road Safety,NCD,PHC,Tobacco Control,Mental Health,Air Pollution,All
+ISO3,Focus Area,Health Tax,Road Safety,NCD,Physical Activity,Tobacco Control,Mental Health,Air Pollution,All
 ARM,"NCD, Tobacco Control, Health Tax",1,0,1,0,1,0,0,3
-BHR,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+BHR,"NCD, Health Tax, Physical Activity",1,0,1,1,0,0,0,3
 BRB,NCD,0,0,1,0,0,0,0,1
 BLR,NCD,0,0,1,0,0,0,0,1
 BTN,Tobacco Control,0,0,0,0,1,0,0,1
@@ -23,7 +23,7 @@ JAM,NCD,0,0,1,0,0,0,0,1
 JOR,"Tobacco Control, Mental Health",0,0,0,0,1,1,0,2
 KAZ,NCD,0,0,1,0,0,0,0,1
 KEN,Mental Health,0,0,0,0,0,1,0,1
-KWT,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+KWT,"NCD, Health Tax, Physical Activity",1,0,1,1,0,0,0,3
 KGZ,NCD,0,0,1,0,0,0,0,1
 LAO,Tobacco Control,0,0,0,0,1,0,0,1
 LBN,Tobacco Control,0,0,0,0,1,0,0,1
@@ -33,15 +33,15 @@ MNE,Tobacco Control,0,0,0,0,1,0,0,1
 MOZ,Tobacco Control,0,0,0,0,1,0,0,1
 MMR,Tobacco Control,0,0,0,0,1,0,0,1
 NPL,Tobacco Control,0,0,0,0,1,0,0,1
-OMN,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+OMN,"NCD, Health Tax, Physical Activity",1,0,1,1,0,0,0,3
 PAK,Tobacco Control,0,0,0,0,1,0,0,1
 PAN,Tobacco Control,0,0,0,0,1,0,0,1
 PER,NCD,0,0,1,0,0,0,0,1
 PHL,"NCD, Mental Health",0,0,1,0,0,1,0,2
-QAT,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+QAT,"NCD, Health Tax, Physical Activity",1,0,1,1,0,0,0,3
 RUS,NCD,0,0,1,0,0,0,0,1
 WSM,Tobacco Control,0,0,0,0,1,0,0,1
-SAU,"NCD (2), Health Tax, PHC",1,0,2,1,0,0,0,4
+SAU,"NCD (2), Health Tax, Physical Activity",1,0,2,1,0,0,0,4
 SRB,Tobacco Control,0,0,0,0,1,0,0,1
 SLE,Tobacco Control,0,0,0,0,1,0,0,1
 LKA,Tobacco Control,0,0,0,0,1,0,0,1
@@ -50,7 +50,7 @@ TZA,Tobacco Control,0,0,0,0,1,0,0,1
 THA,NCD,0,0,1,0,0,0,0,1
 TUN,Tobacco Control,0,0,0,0,1,0,0,1
 TUR,NCD,0,0,1,0,0,0,0,1
-ARE,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+ARE,"NCD, Health Tax, Physical Activity",1,0,1,1,0,0,0,3
 UZB,"NCD, Mental Health",0,0,1,0,0,1,0,2
 VUT,Tobacco Control,0,0,0,0,1,0,0,1
 ZMB,"NCD, Tobacco Control, Road Safety",0,1,1,0,1,0,0,3
