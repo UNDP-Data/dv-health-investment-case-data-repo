@@ -1,0 +1,57 @@
+ISO3,Focus Area,Health Tax,Road Safety,NCD,PHC,Tobacco Control,Mental Health,Air Pollution,All
+ARM,"NCD, Tobacco Control, Health Tax",1,0,1,0,1,0,0,3
+BHR,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+BRB,NCD,0,0,1,0,0,0,0,1
+BLR,NCD,0,0,1,0,0,0,0,1
+BTN,Tobacco Control,0,0,0,0,1,0,0,1
+BIH,NCD,0,0,1,0,0,0,0,1
+BIH,NCD,0,0,1,0,0,0,0,1
+BFA,Tobacco Control,0,0,0,0,1,0,0,1
+CPV,Tobacco Control,0,0,0,0,1,0,0,1
+KHM,"NCD, Tobacco Control",0,0,1,0,1,0,0,2
+TCD,Tobacco Control,0,0,0,0,1,0,0,1
+COL,Tobacco Control,0,0,0,0,1,0,0,1
+EGY,Tobacco Control,0,0,0,0,1,0,0,1
+SLV,Tobacco Control,0,0,0,0,1,0,0,1
+SWZ,Tobacco Control,0,0,0,0,1,0,0,1
+ETH,"NCD, Air Pollution, Health Tax",1,0,1,0,0,0,1,3
+FJI,Tobacco Control,0,0,0,0,1,0,0,1
+GEO,"NCD, Tobacco Control",0,0,1,0,1,0,0,2
+GHA,"Tobacco Control, Health Tax",1,0,0,0,1,0,0,2
+IRN,Tobacco Control,0,0,0,0,1,0,0,1
+JAM,NCD,0,0,1,0,0,0,0,1
+JOR,"Tobacco Control, Mental Health",0,0,0,0,1,1,0,2
+KAZ,NCD,0,0,1,0,0,0,0,1
+KEN,Mental Health,0,0,0,0,0,1,0,1
+KWT,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+KGZ,NCD,0,0,1,0,0,0,0,1
+LAO,Tobacco Control,0,0,0,0,1,0,0,1
+LBN,Tobacco Control,0,0,0,0,1,0,0,1
+MDG,Tobacco Control,0,0,0,0,1,0,0,1
+MNG,"NCD, Tobacco Control, Air Pollution",0,0,1,0,1,0,1,3
+MNE,Tobacco Control,0,0,0,0,1,0,0,1
+MOZ,Tobacco Control,0,0,0,0,1,0,0,1
+MMR,Tobacco Control,0,0,0,0,1,0,0,1
+NPL,Tobacco Control,0,0,0,0,1,0,0,1
+OMN,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+PAK,Tobacco Control,0,0,0,0,1,0,0,1
+PAN,Tobacco Control,0,0,0,0,1,0,0,1
+PER,NCD,0,0,1,0,0,0,0,1
+PHL,"NCD, Mental Health",0,0,1,0,0,1,0,2
+QAT,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+RUS,NCD,0,0,1,0,0,0,0,1
+WSM,Tobacco Control,0,0,0,0,1,0,0,1
+SAU,"NCD (2), Health Tax, PHC",1,0,2,1,0,0,0,4
+SRB,Tobacco Control,0,0,0,0,1,0,0,1
+SLE,Tobacco Control,0,0,0,0,1,0,0,1
+LKA,Tobacco Control,0,0,0,0,1,0,0,1
+SUR,"NCD, Tobacco Control",0,0,1,0,1,0,0,2
+TZA,Tobacco Control,0,0,0,0,1,0,0,1
+THA,NCD,0,0,1,0,0,0,0,1
+TUN,Tobacco Control,0,0,0,0,1,0,0,1
+TUR,NCD,0,0,1,0,0,0,0,1
+ARE,"NCD, Health Tax, PHC",1,0,1,1,0,0,0,3
+UZB,"NCD, Mental Health",0,0,1,0,0,1,0,2
+VUT,Tobacco Control,0,0,0,0,1,0,0,1
+ZMB,"NCD, Tobacco Control, Road Safety",0,1,1,0,1,0,0,3
+ZWE,Mental Health,0,0,0,0,0,1,0,1
