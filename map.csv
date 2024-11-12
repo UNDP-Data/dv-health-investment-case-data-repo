@@ -1,57 +1,57 @@
-ISO3,Focus Area,Health Tax,Road Safety,NCD,Physical Activity,Tobacco Control,Mental Health,Air Pollution,All
-ARM,"NCD, Tobacco Control, Health Tax",1,,1,,1,,,3
-BHR,"NCD, Health Tax, Physical Activity",1,,1,1,,,,3
-BRB,NCD,,,1,,,,,1
-BLR,NCD,,,1,,,,,1
-BTN,Tobacco Control,,,,,1,,,1
-BIH,NCD,,,1,,,,,1
-BIH,NCD,,,1,,,,,1
-BFA,Tobacco Control,,,,,1,,,1
-CPV,Tobacco Control,,,,,1,,,1
-KHM,"NCD, Tobacco Control",,,1,,1,,,2
-TCD,Tobacco Control,,,,,1,,,1
-COL,Tobacco Control,,,,,1,,,1
-EGY,Tobacco Control,,,,,1,,,1
-SLV,Tobacco Control,,,,,1,,,1
-SWZ,Tobacco Control,,,,,1,,,1
-ETH,"NCD, Air Pollution, Health Tax",1,,1,,,,1,3
-FJI,Tobacco Control,,,,,1,,,1
-GEO,"NCD, Tobacco Control",,,1,,1,,,2
-GHA,"Tobacco Control, Health Tax",1,,,,1,,,2
-IRN,Tobacco Control,,,,,1,,,1
-JAM,NCD,,,1,,,,,1
-JOR,"Tobacco Control, Mental Health",,,,,1,1,,2
-KAZ,NCD,,,1,,,,,1
-KEN,Mental Health,,,,,,1,,1
-KWT,"NCD, Health Tax, Physical Activity",1,,1,1,,,,3
-KGZ,NCD,,,1,,,,,1
-LAO,Tobacco Control,,,,,1,,,1
-LBN,Tobacco Control,,,,,1,,,1
-MDG,Tobacco Control,,,,,1,,,1
-MNG,"NCD, Tobacco Control, Air Pollution",,,1,,1,,1,3
-MNE,Tobacco Control,,,,,1,,,1
-MOZ,Tobacco Control,,,,,1,,,1
-MMR,Tobacco Control,,,,,1,,,1
-NPL,Tobacco Control,,,,,1,,,1
-OMN,"NCD, Health Tax, Physical Activity",1,,1,1,,,,3
-PAK,Tobacco Control,,,,,1,,,1
-PAN,Tobacco Control,,,,,1,,,1
-PER,NCD,,,1,,,,,1
-PHL,"NCD, Mental Health",,,1,,,1,,2
-QAT,"NCD, Health Tax, Physical Activity",1,,1,1,,,,3
-RUS,NCD,,,1,,,,,1
-WSM,Tobacco Control,,,,,1,,,1
-SAU,"NCD (2), Health Tax, Physical Activity",1,,2,1,,,,4
-SRB,Tobacco Control,,,,,1,,,1
-SLE,Tobacco Control,,,,,1,,,1
-LKA,Tobacco Control,,,,,1,,,1
-SUR,"NCD, Tobacco Control",,,1,,1,,,2
-TZA,Tobacco Control,,,,,1,,,1
-THA,NCD,,,1,,,,,1
-TUN,Tobacco Control,,,,,1,,,1
-TUR,NCD,,,1,,,,,1
-ARE,"NCD, Health Tax, Physical Activity",1,,1,1,,,,3
-UZB,"NCD, Mental Health",,,1,,,1,,2
-VUT,Tobacco Control,,,,,1,,,1
-ZMB,"NCD, Tobacco Control, Road Safety",,1,1,,1,,,3
-ZWE,Mental Health,,,,,,1,,1
+﻿"ISO3","Focus Area","Health Tax","Road Safety","NCD","Physical Activity","Tobacco Control","Mental Health","Air Pollution","All","Official Country Name","Continent","Sub-region","UNDP Bureau","Income Group","Latitude (average)","Longitude (average)"
+"ARM","NCD, Tobacco Control, Health Tax","1","","1","","1","","","3","Armenia","Asia","Western Asia","UNDP_ECA","Upper middle income","40","45"
+"BHR","NCD, Health Tax, Physical Activity","1","","1","1","","","","3","Bahrain","Asia","Western Asia","UNDP_AS","High income","26","50.55"
+"BRB","NCD","","","1","","","","","1","Barbados","Americas","Latin America and the Caribbean","UNDP_LAC","High income","13.1667","-59.5333"
+"BLR","NCD","","","1","","","","","1","Belarus","Europe","Eastern Europe","UNDP_ECA","Upper middle income","53","28"
+"BTN","Tobacco Control","","","","","1","","","1","Bhutan","Asia","Southern Asia","UNDP_AP","Lower middle income","27.5","90.5"
+"BIH","NCD","","","1","","","","","1","Bosnia and Herzegovina","Europe","Southern Europe","UNDP_ECA","Upper middle income","44","18"
+"BIH","NCD","","","1","","","","","1","Bosnia and Herzegovina","Europe","Southern Europe","UNDP_ECA","Upper middle income","44","18"
+"BFA","Tobacco Control","","","","","1","","","1","Burkina Faso","Africa","Sub-Saharan Africa","UNDP_SSA","Low income","13","-2"
+"CPV","Tobacco Control","","","","","1","","","1","Cabo Verde","Africa","Sub-Saharan Africa","UNDP_SSA","Lower middle income","16","-24"
+"KHM","NCD, Tobacco Control","","","1","","1","","","2","Cambodia","Asia","South-eastern Asia","UNDP_AP","Lower middle income","13","105"
+"TCD","Tobacco Control","","","","","1","","","1","Chad","Africa","Sub-Saharan Africa","UNDP_SSA","Low income","15","19"
+"COL","Tobacco Control","","","","","1","","","1","Colombia","Americas","Latin America and the Caribbean","UNDP_LAC","Upper middle income","4","-72"
+"EGY","Tobacco Control","","","","","1","","","1","Egypt","Africa","Northern Africa","UNDP_AS","Lower middle income","27","30"
+"SLV","Tobacco Control","","","","","1","","","1","El Salvador","Americas","Latin America and the Caribbean","UNDP_LAC","Lower middle income","13.8333","-88.9167"
+"SWZ","Tobacco Control","","","","","1","","","1","Eswatini","Africa","Sub-Saharan Africa","UNDP_SSA","Lower middle income","-26.5","31.5"
+"ETH","NCD, Air Pollution, Health Tax","1","","1","","","","1","3","Ethiopia","Africa","Sub-Saharan Africa","UNDP_SSA","Low income","8","38"
+"FJI","Tobacco Control","","","","","1","","","1","Fiji","Oceania","Melanesia","UNDP_AP","Upper middle income","-18","175"
+"GEO","NCD, Tobacco Control","","","1","","1","","","2","Georgia","Asia","Western Asia","UNDP_ECA","Upper middle income","42","43.5"
+"GHA","Tobacco Control, Health Tax","1","","","","1","","","2","Ghana","Africa","Sub-Saharan Africa","UNDP_SSA","Lower middle income","8","-2"
+"IRN","Tobacco Control","","","","","1","","","1","Iran (Islamic Republic of)","Asia","Southern Asia","UNDP_AP","Lower middle income","32","53"
+"JAM","NCD","","","1","","","","","1","Jamaica","Americas","Latin America and the Caribbean","UNDP_LAC","Upper middle income","18.25","-77.5"
+"JOR","Tobacco Control, Mental Health","","","","","1","1","","2","Jordan","Asia","Western Asia","UNDP_AS","Upper middle income","31","36"
+"KAZ","NCD","","","1","","","","","1","Kazakhstan","Asia","Central Asia","UNDP_ECA","Upper middle income","48","68"
+"KEN","Mental Health","","","","","","1","","1","Kenya","Africa","Sub-Saharan Africa","UNDP_SSA","Lower middle income","1","38"
+"KWT","NCD, Health Tax, Physical Activity","1","","1","1","","","","3","Kuwait","Asia","Western Asia","UNDP_AS","High income","29.3375","47.6581"
+"KGZ","NCD","","","1","","","","","1","Kyrgyzstan","Asia","Central Asia","UNDP_ECA","Lower middle income","41","75"
+"LAO","Tobacco Control","","","","","1","","","1","Lao People's Democratic Republic","Asia","South-eastern Asia","UNDP_AP","Lower middle income","18","105"
+"LBN","Tobacco Control","","","","","1","","","1","Lebanon","Asia","Western Asia","UNDP_AS","Lower middle income","33.8333","35.8333"
+"MDG","Tobacco Control","","","","","1","","","1","Madagascar","Africa","Sub-Saharan Africa","UNDP_SSA","Low income","-20","47"
+"MNG","NCD, Tobacco Control, Air Pollution","","","1","","1","","1","3","Mongolia","Asia","Eastern Asia","UNDP_AP","Lower middle income","46","105"
+"MNE","Tobacco Control","","","","","1","","","1","Montenegro","Europe","Southern Europe","UNDP_ECA","Upper middle income","42","19"
+"MOZ","Tobacco Control","","","","","1","","","1","Mozambique","Africa","Sub-Saharan Africa","UNDP_SSA","Low income","-18.25","35"
+"MMR","Tobacco Control","","","","","1","","","1","Myanmar","Asia","South-eastern Asia","UNDP_AP","Lower middle income","22","98"
+"NPL","Tobacco Control","","","","","1","","","1","Nepal","Asia","Southern Asia","UNDP_AP","Lower middle income","28","84"
+"OMN","NCD, Health Tax, Physical Activity","1","","1","1","","","","3","Oman","Asia","Western Asia","UNDP_AS","High income","21","57"
+"PAK","Tobacco Control","","","","","1","","","1","Pakistan","Asia","Southern Asia","UNDP_AP","Lower middle income","30","70"
+"PAN","Tobacco Control","","","","","1","","","1","Panama","Americas","Latin America and the Caribbean","UNDP_LAC","High income","9","-80"
+"PER","NCD","","","1","","","","","1","Peru","Americas","Latin America and the Caribbean","UNDP_LAC","Upper middle income","-10","-76"
+"PHL","NCD, Mental Health","","","1","","","1","","2","Philippines","Asia","South-eastern Asia","UNDP_AP","Lower middle income","13","122"
+"QAT","NCD, Health Tax, Physical Activity","1","","1","1","","","","3","Qatar","Asia","Western Asia","UNDP_AS","High income","25.5","51.25"
+"RUS","NCD","","","1","","","","","1","Russian Federation","Europe","Eastern Europe","","Upper middle income","60","100"
+"WSM","Tobacco Control","","","","","1","","","1","Samoa","Oceania","Polynesia","UNDP_AP","Lower middle income","-13.5833","-172.3333"
+"SAU","NCD (2), Health Tax, Physical Activity","1","","2","1","","","","4","Saudi Arabia","Asia","Western Asia","UNDP_AS","High income","25","45"
+"SRB","Tobacco Control","","","","","1","","","1","Serbia","Europe","Southern Europe","UNDP_ECA","Upper middle income","44","21"
+"SLE","Tobacco Control","","","","","1","","","1","Sierra Leone","Africa","Sub-Saharan Africa","UNDP_SSA","Low income","8.5","-11.5"
+"LKA","Tobacco Control","","","","","1","","","1","Sri Lanka","Asia","Southern Asia","UNDP_AP","Lower middle income","7","81"
+"SUR","NCD, Tobacco Control","","","1","","1","","","2","Suriname","Americas","Latin America and the Caribbean","UNDP_LAC","Upper middle income","4","-56"
+"TZA","Tobacco Control","","","","","1","","","1","United Republic of Tanzania","Africa","Sub-Saharan Africa","UNDP_SSA","Lower middle income","-6","35"
+"THA","NCD","","","1","","","","","1","Thailand","Asia","South-eastern Asia","UNDP_AP","Upper middle income","15","100"
+"TUN","Tobacco Control","","","","","1","","","1","Tunisia","Africa","Northern Africa","UNDP_AS","Lower middle income","34","9"
+"TUR","NCD","","","1","","","","","1","Türkiye","Asia","Western Asia","UNDP_ECA","Upper middle income","39","35"
+"ARE","NCD, Health Tax, Physical Activity","1","","1","1","","","","3","United Arab Emirates","Asia","Western Asia","UNDP_AS","High income","24","54"
+"UZB","NCD, Mental Health","","","1","","","1","","2","Uzbekistan","Asia","Central Asia","UNDP_ECA","Lower middle income","41","64"
+"VUT","Tobacco Control","","","","","1","","","1","Vanuatu","Oceania","Melanesia","UNDP_AP","Lower middle income","-16","167"
+"ZMB","NCD, Tobacco Control, Road Safety","","1","1","","1","","","3","Zambia","Africa","Sub-Saharan Africa","UNDP_SSA","Low income","-15","30"
+"ZWE","Mental Health","","","","","","1","","1","Zimbabwe","Africa","Sub-Saharan Africa","UNDP_SSA","Lower middle income","-20","30"
