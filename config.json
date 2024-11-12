@@ -61,6 +61,7 @@
             ],
             "settings": {
               "domain": [2, 3, 4, 5],
+              "zoomScaleExtend": [1, 6],
               "tooltip": "<h6>{{data.data['Official Country Name']}}</h6><br><b>Focus Areas:</b> {{data.data['Focus Area']}}<br><b>Total number:</b> {{data.data.All}}",
               "colorLegendTitle": "Total number of Investment Cases"
             }
