@@ -17,6 +17,10 @@
                 "ui": "select",
                 "allowedColumnIds": [
                   {
+                    "value": "All",
+                    "label": "All focus areas"
+                  },
+                  {
                     "value": "NCD",
                     "label": "NCD"
                   },
