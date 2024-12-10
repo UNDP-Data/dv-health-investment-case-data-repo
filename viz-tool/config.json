@@ -31,10 +31,6 @@
                     "label": "Tobacco Control"
                   },
                   {
-                    "value": "Health Tax",
-                    "label": "Health Tax"
-                  },
-                  {
                     "value": "Mental Health",
                     "label": "Mental Health"
                   },
@@ -43,12 +39,48 @@
                     "label": "Air Pollution"
                   },
                   {
-                    "value": "Physical Activity",
-                    "label": "Physical Activity"
+                    "value": "Health Taxes",
+                    "label": "Health Taxes"
+                  },
+                  {
+                    "value": "Primary Healthcare",
+                    "label": "Primary Healthcare"
+                  },
+                  {
+                    "value": "Alcohol Control",
+                    "label": "Alcohol Control"
                   },
                   {
                     "value": "Road Safety",
                     "label": "Road Safety"
+                  },
+                  {
+                    "value": "Access to Medicine",
+                    "label": "Access to Medicine"
+                  },
+                  {
+                    "value": "NTD",
+                    "label": "NTD"
+                  },
+                  {
+                    "value": "Nutrition",
+                    "label": "Nutrition"
+                  },
+                  {
+                    "value": "HIV",
+                    "label": "HIV"
+                  },
+                  {
+                    "value": "Nutrition",
+                    "label": "Nutrition"
+                  },
+                  {
+                    "value": "Tuberculosis",
+                    "label": "Tuberculosis"
+                  },
+                  {
+                    "value": "Physical Activity",
+                    "label": "Physical Activity"
                   }
                 ],
                 "chartConfigId": "x"
@@ -69,7 +101,7 @@
               "zoomScaleExtend": [1, 3],
               "scale": 230,
               "centerPoint": [10, 16],
-              "tooltip": "<b>Country: </b>{{data.[Official Country Name]}}</br><b>Focus Areas:</b> {{data.[Focus Area]}}</br><b>Total number: </b>{{x}}",
+              "tooltip": "<b>Country: </b>{{data.[Official Country Name]}}</br><b>Total number of Investment Cases: </b>{{x}}",
               "colorLegendTitle": "Total number of Investment Cases"
             }
           }
