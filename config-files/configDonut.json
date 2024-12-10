@@ -1,0 +1,25 @@
+{
+  "graphType": "donutChart",
+  "dataSettings": {
+    "dataURL": "https://raw.githubusercontent.com/UNDP-Data/dv-health-investment-case-data-repo/refs/heads/main/viz-tool/data/actions-by-thematic-areas.csv",
+    "fileType": "csv",
+    "delimiter": ","
+  },
+  "graphDataConfiguration": [
+    {
+      "chartConfigId": "label",
+      "columnId": "Thematic Area"
+    },
+    {
+      "chartConfigId": "size",
+      "columnId": "Actions"
+    }
+  ],
+  "graphSettings": {
+    "graphTitle": "Actions by thematic area",
+    "mainText": "130",
+    "subNote": "actions in total",
+    "backgroundColor": true,
+    "legendMaxWidth": "500px"
+  }
+}
