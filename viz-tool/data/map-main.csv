@@ -1,137 +1,149 @@
-﻿Area,Country,Status,ISO3,X
-NCD,Armenia,Completed,ARM,1
-NCD,Bahrain,Completed,BHR,1
-NCD,Barbados,Completed,BRB,1
-NCD,Belarus,Completed,BLR,1
-NCD,Bosnia and Herzegovina,Completed,BIH,1
-NCD,Bosnia and Herzegovina,Completed,BIH,1
-NCD,Cambodia,Completed,KHM,1
-NCD,Ethiopia,Completed,ETH,1
-NCD,Georgia,Completed,GEO,1
-NCD,Jamaica,Completed,JAM,1
-NCD,Kazakhstan,Completed,KAZ,1
-NCD,Kyrgyzstan,Completed,KGZ,1
-NCD,Kuwait,Completed,KWT,1
-NCD,Mongolia,Completed,MNG,1
-NCD,Oman,Completed,OMN,1
-NCD,Peru,Completed,PER,1
-NCD,Philippines,Completed,PHL,1
-NCD,Qatar,Completed,QAT,1
-NCD,Russian Federation,Completed,RUS,1
-NCD,Saudi Arabia,Completed,SAU,1
-NCD,Saudi Arabia,Completed,SAU,1
-NCD,Suriname,Completed,SUR,1
-NCD,Thailand,Completed,THA,1
-NCD,Turkiye,Completed,TUR,1
-NCD,United Arab Emirates,Completed,ARE,1
-NCD,Uzbekistan,Completed,UZB,1
-NCD,Zambia,Completed,ZMB,1
-NCD,Botswana,Completed,BWA,1
-NCD,Malaysia,Completed,MYS,1
-NCD,Kyrgyzstan,Ongoing,KGZ,1
-NCD,Armenia,Ongoing,ARM,1
-NCD,Malawi,Ongoing,MWI,1
-NCD,Tajikistan,Ongoing,TJK,1
-NCD,Uganda,Ongoing,UGA,1
-NCD,Fiji,Ongoing,FJI,1
-NCD,Nigeria,Ongoing,NGA,1
-Tobacco Control,Armenia,Completed,ARM,1
-Tobacco Control,Burkina Faso,Completed,BFA,1
-Tobacco Control,Cabo Verde,Completed,CPV,1
-Tobacco Control,Cambodia,Completed,KHM,1
-Tobacco Control,Chad,Completed,TCD,1
-Tobacco Control,Colombia,Completed,COL,1
-Tobacco Control,Egypt,Completed,EGY,1
-Tobacco Control,El Salvador,Completed,SLV,1
-Tobacco Control,Eswatini (Kingdom of),Completed,SWZ,1
-Tobacco Control,Fiji,Completed,FJI,1
-Tobacco Control,Georgia,Completed,GEO,1
-Tobacco Control,Ghana,Completed,GHA,1
-Tobacco Control,Jordan,Completed,JOR,1
-Tobacco Control,Lao People's Democratic Republic,Completed,LAO,1
-Tobacco Control,Madagascar,Completed,MDG,1
-Tobacco Control,Myanmar,Completed,MMR,1
-Tobacco Control,Mongolia,Completed,MNG,1
-Tobacco Control,Mozambique,Completed,MOZ,1
-Tobacco Control,Nepal,Completed,NPL,1
-Tobacco Control,Pakistan,Completed,PAK,1
-Tobacco Control,Samoa,Completed,WSM,1
-Tobacco Control,Serbia,Completed,SRB,1
-Tobacco Control,Sierra Leone,Completed,SLE,1
-Tobacco Control,Sri Lanka,Completed,LKA,1
-Tobacco Control,Suriname,Completed,SUR,1
-Tobacco Control,Tunisia,Completed,TUN,1
-Tobacco Control,Zambia,Completed,ZMB,1
-Tobacco Control,Montenegro,Completed,MNE,1
-Tobacco Control,Panama,Completed,PAN,1
-Tobacco Control,Iran (Islamic Republic of),Completed,IRN,1
-Tobacco Control,Vanuatu,Completed,VUT,1
-Tobacco Control,Bhutan,Completed,BTN,1
-Tobacco Control,Lebanon,Completed,LBN,1
-Tobacco Control,Tanzania (United Republic of),Completed,TZA,1
-Tobacco Control,Nepal,Completed,NPL,1
-Tobacco Control,North Macedonia,Completed,MKD,1
-Tobacco Control,Costa Rica,Ongoing,CRI,1
-Tobacco Control,Mexico,Ongoing,MEX,1
-Tobacco Control,Timor-Leste,Ongoing,TLS,1
-Tobacco Control,Indonesia,Ongoing,IDN,1
-Tobacco Control,Philippines,Ongoing,PHL,1
-Tobacco Control,Viet Nam,Ongoing,VNM,1
-Mental Health,Philippines,Completed,PHL,1
-Mental Health,Uzbekistan,Completed,UZB,1
-Mental Health,Kenya,Completed,KEN,1
-Mental Health,Zimbabwe,Completed,ZWE,1
-Mental Health,Jordan,Completed,JOR,1
-Mental Health,Uganda,Completed,UGA,1
-Mental Health,Guyana,Completed,GUY,1
-Mental Health,Suriname,Completed,SUR,1
-Mental Health,Bangladesh,Ongoing,BGD,1
-Mental Health,Gambia,Ongoing,GMB,1
-Mental Health,Kyrgyzstan,Ongoing,KGZ,1
-Mental Health,Nepal,Ongoing,NPL,1
-Air Pollution,Ethiopia,Completed,ETH,1
-Air Pollution,Mongolia,Completed,MNG,1
-Air Pollution,India,Completed,IND,1
-Air Pollution,Nigeria,Ongoing,NGA,1
-Air Pollution,Ghana,Ongoing,GHA,1
-Health Tax,Bahrain,Completed,BHR,1
-Health Tax,Ghana,Completed,GHA,1
-Health Tax,Armenia,Completed,ARM,1
-Health Tax,Ethiopia,Completed,ETH,1
-Health Tax,Oman,Completed,OMN,1
-Health Tax,Saudi Arabia,Completed,SAU,1
-Health Tax,United Arab Emirates,Completed,ARE,1
-Health Tax,Qatar,Completed,QAT,1
-Health Tax,Kuwait,Completed,KWT,1
-Health Tax,Thailand,Ongoing,THA,1
-Health Tax,Malawi,Ongoing,MWI,1
-Health Tax,Lao People's Democratic Republic,Ongoing,LAO,1
-Health Tax,Cambodia,Ongoing,KHM,1
-Health Tax,Bangladesh,Ongoing,BGD,1
-Health Tax,Suriname,Ongoing,SUR,1
-Health Tax,Uganda,Ongoing,UGA,1
-Primary Healthcare,Bahrain,Completed,BHR,1
-Primary Healthcare,Kuwait,Completed,KWT,1
-Primary Healthcare,Oman,Completed,OMN,1
-Primary Healthcare,Qatar,Completed,QAT,1
-Primary Healthcare,Saudi Arabia,Completed,SAU,1
-Primary Healthcare,United Arab Emirates,Completed,ARE,1
-Alcohol Control,Uganda,Ongoing,UGA,1
-Alcohol Control,Nepal,Ongoing,NPL,1
-Alcohol Control,Sri Lanka,Ongoing,LKA,1
-Road Safety ,Zambia,Completed,ZMB,1
-Road Safety ,Tunisia,Ongoing,TUN,1
-Road Safety ,Algeria,Ongoing,DZA,1
-Road Safety ,United Arab Emirates,Ongoing,ARE,1
-Road Safety ,Bahrain,Ongoing,BHR,1
-Road Safety ,Kuwait,Ongoing,KWT,1
-Road Safety ,Oman,Ongoing,OMN,1
-Road Safety ,Qatar,Ongoing,QAT,1
-Road Safety ,Saudi Arabia,Ongoing,SAU,1
-Access to NCD Treatment,Uganda,Ongoing,UGA,1
-Access to NCD Treatment,Malawi,Ongoing,MWI,1
-NTD,Ghana,Ongoing,GHA,1
-Nutrition,Zimbabwe,Ongoing,ZWE,1
-HIV,Morocco,Ongoing,MAR,1
-Tuberculosis,Morocco,Ongoing,MAR,1
-Physical Activity,Tunisia,Ongoing,TUN,1
+Country,ISO3,Status,Access to NCD Treatment,Air Pollution,Alcohol Control,HIV,Health Tax,Mental Health,NCD,NTD,Nutrition,Physical Activity,Primary Healthcare,Road Safety,Tobacco Control,Tuberculosis
+Armenia,ARM,Completed,,,,,1,,1,,,,,,1,
+Armenia,ARM,Ongoing,,,,,,,1,,,,,,,
+Bahrain,BHR,Completed,,,,,1,,1,,,,1,,,
+Bahrain,BHR,Ongoing,,,,,,,,,,,,1,,
+Barbados,BRB,Completed,,,,,,,1,,,,,,,
+Barbados,BRB,Ongoing,,,,,,,,,,,,,,
+Belarus,BLR,Completed,,,,,,,1,,,,,,,
+Belarus,BLR,Ongoing,,,,,,,,,,,,,,
+Bosnia and Herzegovina,BIH,Completed,,,,,,,2,,,,,,,
+Bosnia and Herzegovina,BIH,Ongoing,,,,,,,,,,,,,,
+Cambodia,KHM,Completed,,,,,,,1,,,,,,1,
+Cambodia,KHM,Ongoing,,,,,1,,,,,,,,,
+Ethiopia,ETH,Completed,,1,,,1,,1,,,,,,,
+Ethiopia,ETH,Ongoing,,,,,,,,,,,,,,
+Georgia,GEO,Completed,,,,,,,1,,,,,,1,
+Georgia,GEO,Ongoing,,,,,,,,,,,,,,
+Jamaica,JAM,Completed,,,,,,,1,,,,,,,
+Jamaica,JAM,Ongoing,,,,,,,,,,,,,,
+Kazakhstan,KAZ,Completed,,,,,,,1,,,,,,,
+Kazakhstan,KAZ,Ongoing,,,,,,,,,,,,,,
+Kyrgyzstan,KGZ,Completed,,,,,,,1,,,,,,,
+Kyrgyzstan,KGZ,Ongoing,,,,,,1,1,,,,,,,
+Kuwait,KWT,Completed,,,,,1,,1,,,,1,,,
+Kuwait,KWT,Ongoing,,,,,,,,,,,,1,,
+Mongolia,MNG,Completed,,1,,,,,1,,,,,,1,
+Mongolia,MNG,Ongoing,,,,,,,,,,,,,,
+Oman,OMN,Completed,,,,,1,,1,,,,1,,,
+Oman,OMN,Ongoing,,,,,,,,,,,,1,,
+Peru,PER,Completed,,,,,,,1,,,,,,,
+Peru,PER,Ongoing,,,,,,,,,,,,,,
+Philippines,PHL,Completed,,,,,,1,1,,,,,,,
+Philippines,PHL,Ongoing,,,,,,,,,,,,,1,
+Qatar,QAT,Completed,,,,,1,,1,,,,1,,,
+Qatar,QAT,Ongoing,,,,,,,,,,,,1,,
+Russian Federation,RUS,Completed,,,,,,,1,,,,,,,
+Russian Federation,RUS,Ongoing,,,,,,,,,,,,,,
+Saudi Arabia,SAU,Completed,,,,,1,,2,,,,1,,,
+Saudi Arabia,SAU,Ongoing,,,,,,,,,,,,1,,
+Suriname,SUR,Completed,,,,,,1,1,,,,,,1,
+Suriname,SUR,Ongoing,,,,,1,,,,,,,,,
+Thailand,THA,Completed,,,,,,,1,,,,,,,
+Thailand,THA,Ongoing,,,,,1,,,,,,,,,
+Turkiye,TUR,Completed,,,,,,,1,,,,,,,
+Turkiye,TUR,Ongoing,,,,,,,,,,,,,,
+United Arab Emirates,ARE,Completed,,,,,1,,1,,,,1,,,
+United Arab Emirates,ARE,Ongoing,,,,,,,,,,,,1,,
+Uzbekistan,UZB,Completed,,,,,,1,1,,,,,,,
+Uzbekistan,UZB,Ongoing,,,,,,,,,,,,,,
+Zambia,ZMB,Completed,,,,,,,1,,,,,1,1,
+Zambia,ZMB,Ongoing,,,,,,,,,,,,,,
+Botswana,BWA,Completed,,,,,,,1,,,,,,,
+Botswana,BWA,Ongoing,,,,,,,,,,,,,,
+Malaysia,MYS,Completed,,,,,,,1,,,,,,,
+Malaysia,MYS,Ongoing,,,,,,,,,,,,,,
+Malawi,MWI,Completed,,,,,,,,,,,,,,
+Malawi,MWI,Ongoing,1,,,,1,,1,,,,,,,
+Tajikistan,TJK,Completed,,,,,,,,,,,,,,
+Tajikistan,TJK,Ongoing,,,,,,,1,,,,,,,
+Uganda,UGA,Completed,,,,,,1,,,,,,,,
+Uganda,UGA,Ongoing,1,,1,,1,,1,,,,,,,
+Fiji,FJI,Completed,,,,,,,,,,,,,1,
+Fiji,FJI,Ongoing,,,,,,,1,,,,,,,
+Nigeria,NGA,Completed,,,,,,,,,,,,,,
+Nigeria,NGA,Ongoing,,1,,,,,1,,,,,,,
+Burkina Faso,BFA,Completed,,,,,,,,,,,,,1,
+Burkina Faso,BFA,Ongoing,,,,,,,,,,,,,,
+Cabo Verde,CPV,Completed,,,,,,,,,,,,,1,
+Cabo Verde,CPV,Ongoing,,,,,,,,,,,,,,
+Chad,TCD,Completed,,,,,,,,,,,,,1,
+Chad,TCD,Ongoing,,,,,,,,,,,,,,
+Colombia,COL,Completed,,,,,,,,,,,,,1,
+Colombia,COL,Ongoing,,,,,,,,,,,,,,
+Egypt,EGY,Completed,,,,,,,,,,,,,1,
+Egypt,EGY,Ongoing,,,,,,,,,,,,,,
+El Salvador,SLV,Completed,,,,,,,,,,,,,1,
+El Salvador,SLV,Ongoing,,,,,,,,,,,,,,
+Eswatini (Kingdom of),SWZ,Completed,,,,,,,,,,,,,1,
+Eswatini (Kingdom of),SWZ,Ongoing,,,,,,,,,,,,,,
+Ghana,GHA,Completed,,,,,1,,,,,,,,1,
+Ghana,GHA,Ongoing,,1,,,,,,1,,,,,,
+Jordan,JOR,Completed,,,,,,1,,,,,,,1,
+Jordan,JOR,Ongoing,,,,,,,,,,,,,,
+Lao People's Democratic Republic,LAO,Completed,,,,,,,,,,,,,1,
+Lao People's Democratic Republic,LAO,Ongoing,,,,,1,,,,,,,,,
+Madagascar,MDG,Completed,,,,,,,,,,,,,1,
+Madagascar,MDG,Ongoing,,,,,,,,,,,,,,
+Myanmar,MMR,Completed,,,,,,,,,,,,,1,
+Myanmar,MMR,Ongoing,,,,,,,,,,,,,,
+Mozambique,MOZ,Completed,,,,,,,,,,,,,1,
+Mozambique,MOZ,Ongoing,,,,,,,,,,,,,,
+Nepal,NPL,Completed,,,,,,,,,,,,,2,
+Nepal,NPL,Ongoing,,,1,,,1,,,,,,,,
+Pakistan,PAK,Completed,,,,,,,,,,,,,1,
+Pakistan,PAK,Ongoing,,,,,,,,,,,,,,
+Samoa,WSM,Completed,,,,,,,,,,,,,1,
+Samoa,WSM,Ongoing,,,,,,,,,,,,,,
+Serbia,SRB,Completed,,,,,,,,,,,,,1,
+Serbia,SRB,Ongoing,,,,,,,,,,,,,,
+Sierra Leone,SLE,Completed,,,,,,,,,,,,,1,
+Sierra Leone,SLE,Ongoing,,,,,,,,,,,,,,
+Sri Lanka,LKA,Completed,,,,,,,,,,,,,1,
+Sri Lanka,LKA,Ongoing,,,,,,,,,,,,,1,
+Tunisia,TUN,Completed,,,,,,,,,,,,,1,
+Tunisia,TUN,Ongoing,,,,,,,,,,1,,1,,
+Montenegro,MNE,Completed,,,,,,,,,,,,,1,
+Montenegro,MNE,Ongoing,,,,,,,,,,,,,,
+Panama,PAN,Completed,,,,,,,,,,,,,1,
+Panama,PAN,Ongoing,,,,,,,,,,,,,,
+Iran (Islamic Republic of),IRN,Completed,,,,,,,,,,,,,1,
+Iran (Islamic Republic of),IRN,Ongoing,,,,,,,,,,,,,,
+Vanuatu,VUT,Completed,,,,,,,,,,,,,1,
+Vanuatu,VUT,Ongoing,,,,,,,,,,,,,,
+Bhutan,BTN,Completed,,,,,,,,,,,,,1,
+Bhutan,BTN,Ongoing,,,,,,,,,,,,,,
+Lebanon,LBN,Completed,,,,,,,,,,,,,1,
+Lebanon,LBN,Ongoing,,,,,,,,,,,,,,
+Tanzania (United Republic of),TZA,Completed,,,,,,,,,,,,,1,
+Tanzania (United Republic of),TZA,Ongoing,,,,,,,,,,,,,,
+North Macedonia,MKD,Completed,,,,,,,,,,,,,1,
+North Macedonia,MKD,Ongoing,,,,,,,,,,,,,,
+Costa Rica,CRI,Completed,,,,,,,,,,,,,,
+Costa Rica,CRI,Ongoing,,,,,,,,,,,,,1,
+Mexico,MEX,Completed,,,,,,,,,,,,,,
+Mexico,MEX,Ongoing,,,,,,,,,,,,,1,
+Timor-Leste,TLS,Completed,,,,,,,,,,,,,,
+Timor-Leste,TLS,Ongoing,,,,,,,,,,,,,1,
+Indonesia,IDN,Completed,,,,,,,,,,,,,,
+Indonesia,IDN,Ongoing,,,,,,,,,,,,,1,
+Viet Nam,VNM,Completed,,,,,,,,,,,,,,
+Viet Nam,VNM,Ongoing,,,,,,,,,,,,,1,
+Kenya,KEN,Completed,,,,,,1,,,,,,,,
+Kenya,KEN,Ongoing,,,,,,,,,,,,,,
+Zimbabwe,ZWE,Completed,,,,,,1,,,,,,,,
+Zimbabwe,ZWE,Ongoing,,,,,,,,,1,,,,,
+Guyana,GUY,Completed,,,,,,1,,,,,,,,
+Guyana,GUY,Ongoing,,,,,,,,,,,,,,
+Bangladesh,BGD,Completed,,,,,,,,,,,,,,
+Bangladesh,BGD,Ongoing,,,,,1,1,,,,,,,,
+Gambia,GMB,Completed,,,,,,,,,,,,,,
+Gambia,GMB,Ongoing,,,,,,1,,,,,,,,
+India,IND,Completed,,1,,,,,,,,,,,,
+India,IND,Ongoing,,,,,,,,,,,,,,
+Bangladesh,BGD,Completed,,,,,,,,,,,,,,
+Bangladesh,BGD,Ongoing,,,,,,,,,,,,,,
+Algeria,DZA,Completed,,,,,,,,,,,,,,
+Algeria,DZA,Ongoing,,,,,,,,,,,,1,,
+Morocco,MAR,Completed,,,,,,,,,,,,,,
+Morocco,MAR,Ongoing,,,,1,,,,,,,,,,1
