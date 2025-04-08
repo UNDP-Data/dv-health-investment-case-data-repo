@@ -1,0 +1,137 @@
+﻿Area,Country,Status,ISO3,Completed,Ongoing
+NCD,Armenia,Completed,ARM,"NCD, Tobacco Control, Health Tax",NCD
+NCD,Bahrain,Completed,BHR,"NCD, Health Tax, Primary Healthcare",Road Safety 
+NCD,Barbados,Completed,BRB,NCD,–
+NCD,Belarus,Completed,BLR,NCD,–
+NCD,Bosnia and Herzegovina,Completed,BIH,NCD (2),–
+NCD,Bosnia and Herzegovina,Completed,BIH,NCD (2),–
+NCD,Cambodia,Completed,KHM,"NCD, Tobacco Control",Health Tax
+NCD,Ethiopia,Completed,ETH,"NCD, Air Pollution, Health Tax",–
+NCD,Georgia,Completed,GEO,"NCD, Tobacco Control",–
+NCD,Jamaica,Completed,JAM,NCD,–
+NCD,Kazakhstan,Completed,KAZ,NCD,–
+NCD,Kyrgyzstan,Completed,KGZ,NCD,"NCD, Mental Health"
+NCD,Kuwait,Completed,KWT,"NCD, Health Tax, Primary Healthcare",Road Safety 
+NCD,Mongolia,Completed,MNG,"NCD, Tobacco Control, Air Pollution",–
+NCD,Oman,Completed,OMN,"NCD, Health Tax, Primary Healthcare",Road Safety 
+NCD,Peru,Completed,PER,NCD,–
+NCD,Philippines,Completed,PHL,"NCD, Mental Health",Tobacco Control
+NCD,Qatar,Completed,QAT,"NCD, Health Tax, Primary Healthcare",Road Safety 
+NCD,Russian Federation,Completed,RUS,NCD,–
+NCD,Saudi Arabia,Completed,SAU,"NCD (2), Health Tax, Primary Healthcare",Road Safety 
+NCD,Saudi Arabia,Completed,SAU,"NCD (2), Health Tax, Primary Healthcare",Road Safety 
+NCD,Suriname,Completed,SUR,"NCD, Tobacco Control, Mental Health",Health Tax
+NCD,Thailand,Completed,THA,NCD,Health Tax
+NCD,Turkiye,Completed,TUR,NCD,–
+NCD,United Arab Emirates,Completed,ARE,"NCD, Health Tax, Primary Healthcare",Road Safety 
+NCD,Uzbekistan,Completed,UZB,"NCD, Mental Health",–
+NCD,Zambia,Completed,ZMB,"NCD, Tobacco Control, Road Safety",–
+NCD,Botswana,Completed,BWA,NCD,–
+NCD,Malaysia,Completed,MYS,NCD,–
+NCD,Kyrgyzstan,Ongoing,KGZ,NCD,"NCD, Mental Health"
+NCD,Armenia,Ongoing,ARM,"NCD, Tobacco Control, Health Tax",NCD
+NCD,Malawi,Ongoing,MWI,–,"NCD, Health Tax, Access to NCD Treatment"
+NCD,Tajikistan,Ongoing,TJK,–,NCD
+NCD,Uganda,Ongoing,UGA,Mental Health,"NCD, Health Tax, Alcohol Control, Access to NCD Treatment"
+NCD,Fiji,Ongoing,FJI,Tobacco Control,NCD
+NCD,Nigeria,Ongoing,NGA,–,"NCD, Air Pollution"
+Tobacco Control,Armenia,Completed,ARM,"NCD, Tobacco Control, Health Tax",NCD
+Tobacco Control,Burkina Faso,Completed,BFA,Tobacco Control,–
+Tobacco Control,Cabo Verde,Completed,CPV,Tobacco Control,–
+Tobacco Control,Cambodia,Completed,KHM,"NCD, Tobacco Control",Health Tax
+Tobacco Control,Chad,Completed,TCD,Tobacco Control,–
+Tobacco Control,Colombia,Completed,COL,Tobacco Control,–
+Tobacco Control,Egypt,Completed,EGY,Tobacco Control,–
+Tobacco Control,El Salvador,Completed,SLV,Tobacco Control,–
+Tobacco Control,Eswatini (Kingdom of),Completed,SWZ,Tobacco Control,–
+Tobacco Control,Fiji,Completed,FJI,Tobacco Control,NCD
+Tobacco Control,Georgia,Completed,GEO,"NCD, Tobacco Control",–
+Tobacco Control,Ghana,Completed,GHA,"Tobacco Control, Health Tax","Air Pollution, NTD"
+Tobacco Control,Jordan,Completed,JOR,"Tobacco Control, Mental Health",–
+Tobacco Control,Lao People's Democratic Republic,Completed,LAO,Tobacco Control,Health Tax
+Tobacco Control,Madagascar,Completed,MDG,Tobacco Control,–
+Tobacco Control,Myanmar,Completed,MMR,Tobacco Control,–
+Tobacco Control,Mongolia,Completed,MNG,"NCD, Tobacco Control, Air Pollution",–
+Tobacco Control,Mozambique,Completed,MOZ,Tobacco Control,–
+Tobacco Control,Nepal,Completed,NPL,Tobacco Control (2),"Mental Health, Alcohol Control"
+Tobacco Control,Pakistan,Completed,PAK,Tobacco Control,–
+Tobacco Control,Samoa,Completed,WSM,Tobacco Control,–
+Tobacco Control,Serbia,Completed,SRB,Tobacco Control,–
+Tobacco Control,Sierra Leone,Completed,SLE,Tobacco Control,–
+Tobacco Control,Sri Lanka,Completed,LKA,Tobacco Control,Tobacco Control
+Tobacco Control,Suriname,Completed,SUR,"NCD, Tobacco Control, Mental Health",Health Tax
+Tobacco Control,Tunisia,Completed,TUN,Tobacco Control,"Road Safety, Physical Activity"
+Tobacco Control,Zambia,Completed,ZMB,"NCD, Tobacco Control, Road Safety",–
+Tobacco Control,Montenegro,Completed,MNE,Tobacco Control,–
+Tobacco Control,Panama,Completed,PAN,Tobacco Control,–
+Tobacco Control,Iran (Islamic Republic of),Completed,IRN,Tobacco Control,–
+Tobacco Control,Vanuatu,Completed,VUT,Tobacco Control,–
+Tobacco Control,Bhutan,Completed,BTN,Tobacco Control,–
+Tobacco Control,Lebanon,Completed,LBN,Tobacco Control,–
+Tobacco Control,Tanzania (United Republic of),Completed,TZA,Tobacco Control,–
+Tobacco Control,Nepal,Completed,NPL,Tobacco Control (2),"Mental Health, Alcohol Control"
+Tobacco Control,North Macedonia,Completed,MKD,Tobacco Control,–
+Tobacco Control,Costa Rica,Ongoing,CRI,–,Tobacco Control
+Tobacco Control,Mexico,Ongoing,MEX,–,Tobacco Control
+Tobacco Control,Timor-Leste,Ongoing,TLS,–,Tobacco Control
+Tobacco Control,Indonesia,Ongoing,IDN,–,Tobacco Control
+Tobacco Control,Philippines,Ongoing,PHL,"NCD, Mental Health",Tobacco Control
+Tobacco Control,Viet Nam,Ongoing,VNM,–,Tobacco Control
+Mental Health,Philippines,Completed,PHL,"NCD, Mental Health",Tobacco Control
+Mental Health,Uzbekistan,Completed,UZB,"NCD, Mental Health",–
+Mental Health,Kenya,Completed,KEN,Mental Health,–
+Mental Health,Zimbabwe,Completed,ZWE,Mental Health,Nutrition
+Mental Health,Jordan,Completed,JOR,"Tobacco Control, Mental Health",–
+Mental Health,Uganda,Completed,UGA,Mental Health,"NCD, Health Tax, Alcohol Control, Access to NCD Treatment"
+Mental Health,Guyana,Completed,GUY,Mental Health,–
+Mental Health,Suriname,Completed,SUR,"NCD, Tobacco Control, Mental Health",Health Tax
+Mental Health,Bangladesh,Ongoing,BGD,,"Mental Health, Health Tax"
+Mental Health,Gambia,Ongoing,GMB,–,Mental Health
+Mental Health,Kyrgyzstan,Ongoing,KGZ,NCD,"NCD, Mental Health"
+Mental Health,Nepal,Ongoing,NPL,Tobacco Control (2),"Mental Health, Alcohol Control"
+Air Pollution,Ethiopia,Completed,ETH,"NCD, Air Pollution, Health Tax",–
+Air Pollution,Mongolia,Completed,MNG,"NCD, Tobacco Control, Air Pollution",–
+Air Pollution,India,Completed,IND,Air Pollution,–
+Air Pollution,Nigeria,Ongoing,NGA,–,"NCD, Air Pollution"
+Air Pollution,Ghana,Ongoing,GHA,"Tobacco Control, Health Tax","Air Pollution, NTD"
+Health Tax,Bahrain,Completed,BHR,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Health Tax,Ghana,Completed,GHA,"Tobacco Control, Health Tax","Air Pollution, NTD"
+Health Tax,Armenia,Completed,ARM,"NCD, Tobacco Control, Health Tax",NCD
+Health Tax,Ethiopia,Completed,ETH,"NCD, Air Pollution, Health Tax",–
+Health Tax,Oman,Completed,OMN,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Health Tax,Saudi Arabia,Completed,SAU,"NCD (2), Health Tax, Primary Healthcare",Road Safety 
+Health Tax,United Arab Emirates,Completed,ARE,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Health Tax,Qatar,Completed,QAT,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Health Tax,Kuwait,Completed,KWT,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Health Tax,Thailand,Ongoing,THA,NCD,Health Tax
+Health Tax,Malawi,Ongoing,MWI,–,"NCD, Health Tax, Access to NCD Treatment"
+Health Tax,Lao People's Democratic Republic,Ongoing,LAO,Tobacco Control,Health Tax
+Health Tax,Cambodia,Ongoing,KHM,"NCD, Tobacco Control",Health Tax
+Health Tax,Bangladesh,Ongoing,BGD,,
+Health Tax,Suriname,Ongoing,SUR,"NCD, Tobacco Control, Mental Health",Health Tax
+Health Tax,Uganda,Ongoing,UGA,Mental Health,"NCD, Health Tax, Alcohol Control, Access to NCD Treatment"
+Primary Healthcare,Bahrain,Completed,BHR,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Primary Healthcare,Kuwait,Completed,KWT,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Primary Healthcare,Oman,Completed,OMN,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Primary Healthcare,Qatar,Completed,QAT,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Primary Healthcare,Saudi Arabia,Completed,SAU,"NCD (2), Health Tax, Primary Healthcare",Road Safety 
+Primary Healthcare,United Arab Emirates,Completed,ARE,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Alcohol Control,Uganda,Ongoing,UGA,Mental Health,"NCD, Health Tax, Alcohol Control, Access to NCD Treatment"
+Alcohol Control,Nepal,Ongoing,NPL,Tobacco Control (2),"Mental Health, Alcohol Control"
+Alcohol Control,Sri Lanka,Ongoing,LKA,Tobacco Control,Tobacco Control
+Road Safety ,Zambia,Completed,ZMB,"NCD, Tobacco Control, Road Safety",–
+Road Safety ,Tunisia,Ongoing,TUN,Tobacco Control,"Road Safety, Physical Activity"
+Road Safety ,Algeria,Ongoing,DZA,–,Road Safety 
+Road Safety ,United Arab Emirates,Ongoing,ARE,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Road Safety ,Bahrain,Ongoing,BHR,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Road Safety ,Kuwait,Ongoing,KWT,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Road Safety ,Oman,Ongoing,OMN,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Road Safety ,Qatar,Ongoing,QAT,"NCD, Health Tax, Primary Healthcare",Road Safety 
+Road Safety ,Saudi Arabia,Ongoing,SAU,"NCD (2), Health Tax, Primary Healthcare",Road Safety 
+Access to NCD Treatment,Uganda,Ongoing,UGA,Mental Health,"NCD, Health Tax, Alcohol Control, Access to NCD Treatment"
+Access to NCD Treatment,Malawi,Ongoing,MWI,–,"NCD, Health Tax, Access to NCD Treatment"
+NTD,Ghana,Ongoing,GHA,"Tobacco Control, Health Tax","Air Pollution, NTD"
+Nutrition,Zimbabwe,Ongoing,ZWE,Mental Health,Nutrition
+HIV,Morocco,Ongoing,MAR,–,"HIV, Tuberculosis"
+Tuberculosis,Morocco,Ongoing,MAR,–,"HIV, Tuberculosis"
+Physical Activity,Tunisia,Ongoing,TUN,Tobacco Control,"Road Safety, Physical Activity"
