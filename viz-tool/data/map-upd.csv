@@ -1,137 +1,137 @@
-﻿Area,Country,Status
-NCD,Armenia,Completed
-NCD,Bahrain,Completed
-NCD,Barbados,Completed
-NCD,Belarus,Completed
-NCD,Bosnia Fed BiH,Completed
-NCD,Bosnia RS,Completed
-NCD,Cambodia,Completed
-NCD,Ethiopia,Completed
-NCD,Georgia,Completed
-NCD,Jamaica,Completed
-NCD,Kazakhstan,Completed
-NCD,Kyrgyzstan,Completed
-NCD,Kuwait,Completed
-NCD,Mongolia,Completed
-NCD,Oman,Completed
-NCD,Peru,Completed
-NCD,Philippines,Completed
-NCD,Qatar,Completed
-NCD,Russian Federation,Completed
-NCD,Saudi Arabia,Completed
-NCD,Saudi Arabia,Completed
-NCD,Suriname,Completed
-NCD,Thailand,Completed
-NCD,Turkey,Completed
-NCD,UAE,Completed
-NCD,Uzbekistan,Completed
-NCD,Zambia,Completed
-NCD,Botswana,Completed
-NCD,Malaysia,Completed
-NCD,Kyrgyzstan,Ongoing
-NCD,Armenia,Ongoing
-NCD,Malawi,Ongoing
-NCD,Tajikistan,Ongoing
-NCD,Uganda,Ongoing
-NCD,Fiji,Ongoing
-NCD,Nigeria,Ongoing
-Tobacco Control,Armenia,Completed
-Tobacco Control,Burkina Faso,Completed
-Tobacco Control,Cabo Verde,Completed
-Tobacco Control,Cambodia,Completed
-Tobacco Control,Chad,Completed
-Tobacco Control,Colombia,Completed
-Tobacco Control,Egypt,Completed
-Tobacco Control,El Salvador,Completed
-Tobacco Control,Eswatini,Completed
-Tobacco Control,Fiji,Completed
-Tobacco Control,Georgia,Completed
-Tobacco Control,Ghana,Completed
-Tobacco Control,Jordan,Completed
-Tobacco Control,Lao PDR,Completed
-Tobacco Control,Madagascar,Completed
-Tobacco Control,Myanmar,Completed
-Tobacco Control,Mongolia,Completed
-Tobacco Control,Mozambique,Completed
-Tobacco Control,Nepal,Completed
-Tobacco Control,Pakistan,Completed
-Tobacco Control,Samoa,Completed
-Tobacco Control,Serbia,Completed
-Tobacco Control,Sierra Leone,Completed
-Tobacco Control,Sri Lanka,Completed
-Tobacco Control,Suriname,Completed
-Tobacco Control,Tunisia,Completed
-Tobacco Control,Zambia,Completed
-Tobacco Control,Montenegro,Completed
-Tobacco Control,Panama,Completed
-Tobacco Control,Iran,Completed
-Tobacco Control,Vanuatu,Completed
-Tobacco Control,Bhutan,Completed
-Tobacco Control,Lebanon,Completed
-Tobacco Control,Tanzania,Completed
-Tobacco Control,Nepal,Completed
-Tobacco Control,North Macedonia,Completed
-Tobacco Control,Costa Rica,Ongoing
-Tobacco Control,Mexico,Ongoing
-Tobacco Control,Timor-Leste,Ongoing
-Tobacco Control,Indonesia,Ongoing
-Tobacco Control,Philippines,Ongoing
-Tobacco Control,Viet Nam,Ongoing
-Mental Health,Philippines,Completed
-Mental Health,Uzbekistan,Completed
-Mental Health,Kenya,Completed
-Mental Health,Zimbabwe,Completed
-Mental Health,Jordan,Completed
-Mental Health,Uganda,Completed
-Mental Health,Guyana,Completed
-Mental Health,Suriname,Completed
-Mental Health,Bangladesh,Ongoing
-Mental Health,The Gambia,Ongoing
-Mental Health,Kyrgyzstan,Ongoing
-Mental Health,Nepal,Ongoing
-Air Pollution,Ethiopia,Completed
-Air Pollution,Mongolia,Completed
-Air Pollution,India,Completed
-Air Pollution,Nigeria,Ongoing
-Air Pollution,Ghana,Ongoing
-Health Tax,Bahrain,Completed
-Health Tax,Ghana,Completed
-Health Tax,Armenia,Completed
-Health Tax,Ethiopia,Completed
-Health Tax,Oman,Completed
-Health Tax,Saudi Arabia,Completed
-Health Tax,UAE,Completed
-Health Tax,Qatar,Completed
-Health Tax,Kuwait,Completed
-Health Tax,Thailand,Ongoing
-Health Tax,Malawi,Ongoing
-Health Tax,Lao PDR,Ongoing
-Health Tax,Cambodia,Ongoing
-Health Tax,Bangladesh,Ongoing
-Health Tax,Suriname,Ongoing
-Health Tax,Uganda,Ongoing
-PHC,Bahrain,Completed
-PHC,Kuwait,Completed
-PHC,Oman,Completed
-PHC,Qatar,Completed
-PHC,Saudi Arabia,Completed
-PHC,UAE,Completed
-Alcohol Control,Uganda,Ongoing
-Alcohol Control,Nepal,Ongoing
-Alcohol Control,Sri Lanka,Ongoing
-Road Safety ,Zambia,Completed
-Road Safety ,Tunisia,Ongoing
-Road Safety ,Algeria,Ongoing
-Road Safety ,UAE,Ongoing
-Road Safety ,Bahrain,Ongoing
-Road Safety ,Kuwait,Ongoing
-Road Safety ,Oman,Ongoing
-Road Safety ,Qatar,Ongoing
-Road Safety ,Saudi Arabia,Ongoing
-Access to NCD Treatment,Uganda,Ongoing
-Access to NCD Treatment,Malawi,Ongoing
-NTD,Ghana,Ongoing
-Nutrition,Zimbabwe,Ongoing
-HIV,Morocco,Ongoing
-TB,Morocco,Ongoing
-Physical Activity,Tunisia,Ongoing
+﻿Area,Country,Status,ISO3
+NCD,Armenia,Completed,ARM
+NCD,Bahrain,Completed,BHR
+NCD,Barbados,Completed,BRB
+NCD,Belarus,Completed,BLR
+NCD,Bosnia and Herzegovina,Completed,BIH
+NCD,Bosnia and Herzegovina,Completed,BIH
+NCD,Cambodia,Completed,KHM
+NCD,Ethiopia,Completed,ETH
+NCD,Georgia,Completed,GEO
+NCD,Jamaica,Completed,JAM
+NCD,Kazakhstan,Completed,KAZ
+NCD,Kyrgyzstan,Completed,KGZ
+NCD,Kuwait,Completed,KWT
+NCD,Mongolia,Completed,MNG
+NCD,Oman,Completed,OMN
+NCD,Peru,Completed,PER
+NCD,Philippines,Completed,PHL
+NCD,Qatar,Completed,QAT
+NCD,Russian Federation,Completed,RUS
+NCD,Saudi Arabia,Completed,SAU
+NCD,Saudi Arabia,Completed,SAU
+NCD,Suriname,Completed,SUR
+NCD,Thailand,Completed,THA
+NCD,Turkiye,Completed,TUR
+NCD,United Arab Emirates,Completed,ARE
+NCD,Uzbekistan,Completed,UZB
+NCD,Zambia,Completed,ZMB
+NCD,Botswana,Completed,BWA
+NCD,Malaysia,Completed,MYS
+NCD,Kyrgyzstan,Ongoing,KGZ
+NCD,Armenia,Ongoing,ARM
+NCD,Malawi,Ongoing,MWI
+NCD,Tajikistan,Ongoing,TJK
+NCD,Uganda,Ongoing,UGA
+NCD,Fiji,Ongoing,FJI
+NCD,Nigeria,Ongoing,NGA
+Tobacco Control,Armenia,Completed,ARM
+Tobacco Control,Burkina Faso,Completed,BFA
+Tobacco Control,Cabo Verde,Completed,CPV
+Tobacco Control,Cambodia,Completed,KHM
+Tobacco Control,Chad,Completed,TCD
+Tobacco Control,Colombia,Completed,COL
+Tobacco Control,Egypt,Completed,EGY
+Tobacco Control,El Salvador,Completed,SLV
+Tobacco Control,Eswatini (Kingdom of),Completed,SWZ
+Tobacco Control,Fiji,Completed,FJI
+Tobacco Control,Georgia,Completed,GEO
+Tobacco Control,Ghana,Completed,GHA
+Tobacco Control,Jordan,Completed,JOR
+Tobacco Control,Lao People's Democratic Republic,Completed,LAO
+Tobacco Control,Madagascar,Completed,MDG
+Tobacco Control,Myanmar,Completed,MMR
+Tobacco Control,Mongolia,Completed,MNG
+Tobacco Control,Mozambique,Completed,MOZ
+Tobacco Control,Nepal,Completed,NPL
+Tobacco Control,Pakistan,Completed,PAK
+Tobacco Control,Samoa,Completed,WSM
+Tobacco Control,Serbia,Completed,SRB
+Tobacco Control,Sierra Leone,Completed,SLE
+Tobacco Control,Sri Lanka,Completed,LKA
+Tobacco Control,Suriname,Completed,SUR
+Tobacco Control,Tunisia,Completed,TUN
+Tobacco Control,Zambia,Completed,ZMB
+Tobacco Control,Montenegro,Completed,MNE
+Tobacco Control,Panama,Completed,PAN
+Tobacco Control,Iran (Islamic Republic of),Completed,IRN
+Tobacco Control,Vanuatu,Completed,VUT
+Tobacco Control,Bhutan,Completed,BTN
+Tobacco Control,Lebanon,Completed,LBN
+Tobacco Control,Tanzania (United Republic of),Completed,TZA
+Tobacco Control,Nepal,Completed,NPL
+Tobacco Control,North Macedonia,Completed,MKD
+Tobacco Control,Costa Rica,Ongoing,CRI
+Tobacco Control,Mexico,Ongoing,MEX
+Tobacco Control,Timor-Leste,Ongoing,TLS
+Tobacco Control,Indonesia,Ongoing,IDN
+Tobacco Control,Philippines,Ongoing,PHL
+Tobacco Control,Viet Nam,Ongoing,VNM
+Mental Health,Philippines,Completed,PHL
+Mental Health,Uzbekistan,Completed,UZB
+Mental Health,Kenya,Completed,KEN
+Mental Health,Zimbabwe,Completed,ZWE
+Mental Health,Jordan,Completed,JOR
+Mental Health,Uganda,Completed,UGA
+Mental Health,Guyana,Completed,GUY
+Mental Health,Suriname,Completed,SUR
+Mental Health,Bangladesh,Ongoing,BGD
+Mental Health,Gambia,Ongoing,GMB
+Mental Health,Kyrgyzstan,Ongoing,KGZ
+Mental Health,Nepal,Ongoing,NPL
+Air Pollution,Ethiopia,Completed,ETH
+Air Pollution,Mongolia,Completed,MNG
+Air Pollution,India,Completed,IND
+Air Pollution,Nigeria,Ongoing,NGA
+Air Pollution,Ghana,Ongoing,GHA
+Health Tax,Bahrain,Completed,BHR
+Health Tax,Ghana,Completed,GHA
+Health Tax,Armenia,Completed,ARM
+Health Tax,Ethiopia,Completed,ETH
+Health Tax,Oman,Completed,OMN
+Health Tax,Saudi Arabia,Completed,SAU
+Health Tax,United Arab Emirates,Completed,ARE
+Health Tax,Qatar,Completed,QAT
+Health Tax,Kuwait,Completed,KWT
+Health Tax,Thailand,Ongoing,THA
+Health Tax,Malawi,Ongoing,MWI
+Health Tax,Lao People's Democratic Republic,Ongoing,LAO
+Health Tax,Cambodia,Ongoing,KHM
+Health Tax,Bangladesh,Ongoing,BGD
+Health Tax,Suriname,Ongoing,SUR
+Health Tax,Uganda,Ongoing,UGA
+PHC,Bahrain,Completed,BHR
+PHC,Kuwait,Completed,KWT
+PHC,Oman,Completed,OMN
+PHC,Qatar,Completed,QAT
+PHC,Saudi Arabia,Completed,SAU
+PHC,United Arab Emirates,Completed,ARE
+Alcohol Control,Uganda,Ongoing,UGA
+Alcohol Control,Nepal,Ongoing,NPL
+Alcohol Control,Sri Lanka,Ongoing,LKA
+Road Safety ,Zambia,Completed,ZMB
+Road Safety ,Tunisia,Ongoing,TUN
+Road Safety ,Algeria,Ongoing,DZA
+Road Safety ,United Arab Emirates,Ongoing,ARE
+Road Safety ,Bahrain,Ongoing,BHR
+Road Safety ,Kuwait,Ongoing,KWT
+Road Safety ,Oman,Ongoing,OMN
+Road Safety ,Qatar,Ongoing,QAT
+Road Safety ,Saudi Arabia,Ongoing,SAU
+Access to NCD Treatment,Uganda,Ongoing,UGA
+Access to NCD Treatment,Malawi,Ongoing,MWI
+NTD,Ghana,Ongoing,GHA
+Nutrition,Zimbabwe,Ongoing,ZWE
+HIV,Morocco,Ongoing,MAR
+TB,Morocco,Ongoing,MAR
+Physical Activity,Tunisia,Ongoing,TUN
