@@ -1,4 +1,4 @@
-﻿ISO3,Official Country Name,Health Taxes,Road Safety,NCD,Primary Healthcare,Tobacco Control,Mental Health,Air Pollution,Alcohol Control,Access to Medicine,NTD,Nutrition,HIV,Tuberculosis,Physical Activity,All
+﻿ISO3,Official Country Name,Health Taxes,Road Safety,NCD,Primary Healthcare,Tobacco Control,Mental Health,Air Pollution,Alcohol Control,Access to NCD Treatment,NTD,Nutrition,HIV,Tuberculosis,Physical Activity,All
 DZA,Algeria,,1,,,,,,,,,,,,,1
 MAR,Morocco,,,,,,,,,,,,1,1,,2
 ARM,Armenia,1,,1,,1,,,,,,,,,,3
@@ -10,7 +10,7 @@ BTN,Bhutan,,,,,1,,,,,,,,,,1
 BIH,Bosnia and Herzegovina,,,2,,,,,,,,,,,,2
 BWA,Botswana,,,1,,,,,,,,,,,,1
 BFA,Burkina Faso,,,,,1,,,,,,,,,,1
-CPV,Cabo Verde,1,,,,1,,,,,,,,,,2
+CPV,Cabo Verde,,,,,1,,,,,,,,,,1
 KHM,Cambodia,1,,1,,1,,,,,,,,,,3
 TCD,Chad,,,,,1,,,,,,,,,,1
 COL,Colombia,,,,,1,,,,,,,,,,1
@@ -22,7 +22,7 @@ ETH,Ethiopia,1,,1,,,,1,,,,,,,,3
 FJI,Fiji,,,1,,1,,,,,,,,,,2
 GMB,Gambia,,,,,,1,,,,,,,,,1
 GEO,Georgia,,,1,,1,,,,,,,,,,2
-GHA,Ghana,1,,,,1,,,,,1,,,,,3
+GHA,Ghana,1,,,,1,,1,,,1,,,,,4
 GUY,Guyana,,,,,,1,,,,,,,,,1
 IND,India,,,,,,,1,,,,,,,,1
 IDN,Indonesia,,,,,1,,,,,,,,,,1
@@ -58,7 +58,7 @@ SAU,Saudi Arabia,1,1,2,1,,,,,,,,,,,5
 SRB,Serbia,,,,,1,,,,,,,,,,1
 SLE,Sierra Leone,,,,,1,,,,,,,,,,1
 LKA,Sri Lanka,,,,,1,1,,1,,,,,,,3
-SUR,Suriname,1,,1,,1,,,,,,,,,,3
+SUR,Suriname,,,1,,1,,,,,,,,,,2
 TJK,Tajikistan,,,1,,,,,,,,,,,,1
 THA,Thailand,1,,1,,,,,,,,,,,,2
 TLS,Timor-Leste,,,,,1,,,,,,,,,,1
